@@ -155,6 +155,10 @@ strong {
   height: 50px;
   object-fit: cover;
 }
+.site-logo {
+  width: 10%;
+  height: 10%;
+}
 
 .avatar-image-left {
   position: relative;
@@ -291,6 +295,7 @@ strong {
 
 
 .navbar-brand {
+  position: left;
   font-size: 20px;
   line-height: 1.2rem;
   font-weight: var(--font-weight-bold);
@@ -697,7 +702,7 @@ strong {
   CALL TO ACTION
 -----------------------------------------*/
 .call-to-action {
-  background-image: url('../images/terren-hurst-blgOFmPIlr0-unsplash.jpg');
+  background-image: url('../images/highlight4.jpg');
   background-repeat: no-repeat;
   background-position: top;
   background-size: cover;
@@ -788,7 +793,7 @@ strong {
   CONTACT
 -----------------------------------------*/
 .contact {
-  background-image: url('../images/maria-stewart-p4tj0g-_aMM-unsplash.jpg');
+  background-image: url('../images/Highlight1.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
