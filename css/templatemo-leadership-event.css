@@ -39,6 +39,7 @@ https://templatemo.com/tm-575-leadership-event
 
 body {
     background: var(--white-color);
+    width: auto;
     font-family: var(--body-font-family);
 }
 
@@ -943,6 +944,9 @@ strong {
 }
 
 @media screen and (max-width: 991px) {
+  body{
+    width: 100%;
+  }
   h1 {
     font-size: 48px;
   }
