@@ -247,6 +247,7 @@ strong {
 .navbar-nav .nav-link.custom-btn {
   background: var(--navbar-bg-color);
   border-radius: 100px;
+
   color: var(--white-color);
   font-size: var(--copyright-text-font-size);
   font-weight: var(--font-weight-bold);
@@ -280,6 +281,7 @@ strong {
 
 .sticky-wrapper {
   background: var(--navbar-bg-color);
+  height: 80px;
 }
 
 .navbar {
@@ -288,8 +290,8 @@ strong {
   right: 0;
   left: 0;
   transition: all 0.3s;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 
 
@@ -499,7 +501,7 @@ strong {
 .hero-text {
   position: absolute;
   z-index: 2;
-  top: 50%;
+  top: 60%;
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
@@ -537,7 +539,7 @@ strong {
 
 .divblock{
   display:auto;
-  margin-left: 5%;
+  margin-left: 20%;
   margin-right:auto;
   align-items: center;
   width: 60%;  

@@ -116,7 +116,8 @@
             .attr('id', wrapperId)
             .addClass(o.wrapperClassName);
 
-          stickyElement.wrapAll(wrapper);
+          stickyElement.wrapAll(wrapper);t),
+          sticked = [],
 
           var stickyWrapper = stickyElement.parent();
 
