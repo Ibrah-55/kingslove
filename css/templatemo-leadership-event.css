@@ -533,8 +533,15 @@ strong {
 
 .date-text {
   border-right: 0;
-}
+} 
 
+.divblock{
+  display:auto;
+  margin-left: auto;
+  margin-right: auto;
+  width:  60%;
+  
+}
 
 /*---------------------------------------
   SPEAKERS
