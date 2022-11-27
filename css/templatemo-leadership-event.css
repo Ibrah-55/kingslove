@@ -1001,10 +1001,18 @@ strong {
   }
 
   .hero {
-    height: calc(75vh - 78.39px);
+    height: calc(78vh - 10px);
   }
+.divblock{
+  display:flex;
+  margin-left: 10%;
+  margin-right:auto;
+  align-items: center;
+  width: 80%;  
 
-  .nav-tabs .nav-link {
+}
+
+  .nav-tabs .nav-link The{
     width: 50%;
   }
 
